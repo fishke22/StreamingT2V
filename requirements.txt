@@ -16,7 +16,7 @@ gdown==4.7.1
 gradio==4.25.0
 gradio_client==0.15.0
 huggingface-hub==0.21.4
-jupyterlab==3.6.3
+jupyterlab==4.5.7
 omegaconf==2.3.0
 pandas==2.0.0
 pytorch-lightning==2.0.9
